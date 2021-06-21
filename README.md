@@ -1,3 +1,8 @@
+![1](https://user-images.githubusercontent.com/58392246/122732826-d717d700-d2a6-11eb-81a0-8d9d04a5848e.jpg)
+![203545512_858046784833573_3538112098952761558_n](https://user-images.githubusercontent.com/58392246/122732832-d8490400-d2a6-11eb-97b2-a27e26c42e5b.jpg)
+![featured_channel](https://user-images.githubusercontent.com/58392246/122732836-d8490400-d2a6-11eb-9ee4-38b2aacc4362.jpg)
+![karakter-pecinta-warna-hitam](https://user-images.githubusercontent.com/58392246/122732840-d8e19a80-d2a6-11eb-993c-213a8695b921.jpg)
+![shRgEdj](https://user-images.githubusercontent.com/58392246/122732845-d97a3100-d2a6-11eb-8b7b-18d8a9e8c195.png)
 :octocat: Hi there! Thanks for visiting!
 This is my personal configuration for my favorite openbox window manager and some applications too.I hope you understand everything here. 😉
 Here are some details about my setup
